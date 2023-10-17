@@ -1,8 +1,6 @@
 
 
-# Nwabueze Franklin & Asiwaju Ifeoluwa
-
-![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
+# Idowu Festus
 
 ### Description
 
@@ -43,7 +41,3 @@ Our shell has support for the following built-in commands:
 | cd [dir]            | Change the directory.                                                                     |
 | help [built-in]     | Read documentation for a built-in.                                                        |
 
-
-### Credits
-
-All code written by [Nwabueze Franklin](https://github.com/NwabuezeFranklin) and [Asiwaju Ifeoluwa](https://github.com/Asiwajuife).
